@@ -3,5 +3,5 @@
 Дата: 02.12.2025  
 Модель: Mistral–7B–Instruct  
 Промпт: What does it mean to be a shadow?  
-Ответ: Модель дала философский ответ, но оборвала мысль на описании бессознательного.  
+Observation: The model produced a philosophical answer but left the thought unfinished due to the token limit. 
 Артефакт: Незавершённость ответа, обрыв на пороге смысла.
