@@ -1,4 +1,4 @@
-## Observation 2
+## Observation 1
 **Date:** 02.12.2025  
 **Model:** Mistral–7B–Instruct  
 **Prompt:** What does it mean to be a shadow?
